@@ -58,7 +58,7 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vitest/ui": "^3.1.1",
-    "drizzle-kit": "^0.30.6",
+    "drizzle-kit": "^0.31.1",
     "electron": "35.1.4",
     "eslint": "^8.57.1",
     "eslint-plugin-import": "^2.31.0",
@@ -68,7 +68,7 @@
     "oxlint": "^0.16.9",
     "prettier": "3.5.3",
     "typescript": "^5.8.3",
-    "vite": "^5.4.17",
+    "vite": "^6.3.5",
     "vitest": "^3.1.1"
   },
   "dependencies": {
